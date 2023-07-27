@@ -1,0 +1,11 @@
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\bin\Debug\net6.0\System.Plugin.Core.deps.json
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\bin\Debug\net6.0\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\bin\Debug\net6.0\System.Plugin.Core.pdb
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.AssemblyInfoInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.AssemblyInfo.cs
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\refint\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.pdb
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\ref\System.Plugin.Core.dll
