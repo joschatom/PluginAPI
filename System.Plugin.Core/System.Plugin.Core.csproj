@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <Title>Plugin API Core</Title>
     <Copyright>2023 Joscha Egloff</Copyright>
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
 </Project>

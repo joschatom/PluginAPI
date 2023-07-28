@@ -7,6 +7,8 @@
     <IsPackable>false</IsPackable>
 
     <StartupObject>Example.Example_Main</StartupObject>
+
+    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
