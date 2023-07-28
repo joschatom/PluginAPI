@@ -12,6 +12,7 @@
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.0.0",
           "System.Plugin.Core": "1.0.0",
+          "System.Plugin.Host": "1.0.0",
           "coverlet.collector": "3.1.0"
         },
         "runtime": {
@@ -655,6 +656,14 @@
         "runtime": {
           "System.Plugin.Core.dll": {}
         }
+      },
+      "System.Plugin.Host/1.0.0": {
+        "dependencies": {
+          "System.Plugin.Core": "1.0.0"
+        },
+        "runtime": {
+          "System.Plugin.Host.dll": {}
+        }
       }
     }
   },
@@ -987,6 +996,11 @@
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
     "System.Plugin.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Plugin.Host/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

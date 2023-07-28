@@ -9,3 +9,4 @@ C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\S
 C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\refint\System.Plugin.Core.dll
 C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.pdb
 C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\ref\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Core\obj\Debug\net6.0\System.Plugin.Core.sourcelink.json

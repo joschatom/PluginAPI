@@ -15,8 +15,7 @@ namespace System.Plugin
 
         public void LoadPlugin(string dllPath)
         {
-            Assembly assembly = Assembly.Load(dllPath);
-
+            Assembly assembly = Assembly.LoadFile(dllPath);
 
             Type basePlugin = typeof(Core.Plugin);
 

@@ -1,0 +1,16 @@
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\bin\Debug\net6.0-windows\Example.Plugin.deps.json
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\bin\Debug\net6.0-windows\Example.Plugin.dll
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\bin\Debug\net6.0-windows\Example.Plugin.pdb
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\bin\Debug\net6.0-windows\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\bin\Debug\net6.0-windows\System.Plugin.Core.pdb
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.csproj.AssemblyReference.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.AssemblyInfoInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.AssemblyInfo.cs
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.sourcelink.json
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.csproj.CopyComplete
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.dll
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\refint\Example.Plugin.dll
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\Example.Plugin.pdb
+C:\Users\Joscha\source\repos\System.Plugin\Example.Plugin\obj\Debug\net6.0-windows\ref\Example.Plugin.dll

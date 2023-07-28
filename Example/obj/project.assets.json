@@ -980,6 +980,19 @@
         "runtime": {
           "bin/placeholder/System.Plugin.Core.dll": {}
         }
+      },
+      "System.Plugin.Host/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "System.Plugin.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/System.Plugin.Host.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/System.Plugin.Host.dll": {}
+        }
       }
     }
   },
@@ -3947,6 +3960,11 @@
       "type": "project",
       "path": "../System.Plugin.Core/System.Plugin.Core.csproj",
       "msbuildProject": "../System.Plugin.Core/System.Plugin.Core.csproj"
+    },
+    "System.Plugin.Host/1.0.0": {
+      "type": "project",
+      "path": "../System.Plugin.Host/System.Plugin.Host.csproj",
+      "msbuildProject": "../System.Plugin.Host/System.Plugin.Host.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3955,6 +3973,7 @@
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
       "System.Plugin.Core >= 1.0.0",
+      "System.Plugin.Host >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -3993,6 +4012,9 @@
           "projectReferences": {
             "C:\\Users\\Joscha\\source\\repos\\System.Plugin\\System.Plugin.Core\\System.Plugin.Core.csproj": {
               "projectPath": "C:\\Users\\Joscha\\source\\repos\\System.Plugin\\System.Plugin.Core\\System.Plugin.Core.csproj"
+            },
+            "C:\\Users\\Joscha\\source\\repos\\System.Plugin\\System.Plugin.Host\\System.Plugin.Host.csproj": {
+              "projectPath": "C:\\Users\\Joscha\\source\\repos\\System.Plugin\\System.Plugin.Host\\System.Plugin.Host.csproj"
             }
           }
         }

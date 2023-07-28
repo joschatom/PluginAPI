@@ -1,4 +1,10 @@
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.sourcelink.json
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\testhost.dll
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\testhost.exe
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -88,12 +94,9 @@ C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\zh-Hant\Micr
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\System.Plugin.Host.dll
 C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\System.Plugin.Core.pdb
-C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
-C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
-C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
-C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\Example\bin\Debug\net6.0\System.Plugin.Host.pdb
 C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.csproj.CopyComplete
 C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\Example.dll
 C:\Users\Joscha\source\repos\System.Plugin\Example\obj\Debug\net6.0\refint\Example.dll

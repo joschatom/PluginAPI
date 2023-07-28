@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("2023 Joscha Egloff")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5c417b4d0f55bcf1c889fca7474a12ca9862a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("System.Plugin.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("System.Plugin.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
