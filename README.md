@@ -1,12 +1,12 @@
-# [Plugin API]
+# [Plugin API]()
 
 
 ## Welcome
-*Coming soon...*
-## Usgae
-*Coming soon...*
+*Coming soon...
+## Use
+*Coming soon...
 
-## Requiments
-*Coming soon...*
+## Requirements
+* Coming soon... *
 
 ### Thank you.
