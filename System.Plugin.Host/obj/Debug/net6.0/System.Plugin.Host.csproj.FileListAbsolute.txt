@@ -1,0 +1,16 @@
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.csproj.AssemblyReference.cache
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.AssemblyInfoInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.AssemblyInfo.cs
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.sourcelink.json
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\bin\Debug\net6.0\System.Plugin.Host.deps.json
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\bin\Debug\net6.0\System.Plugin.Host.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\bin\Debug\net6.0\System.Plugin.Host.pdb
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\bin\Debug\net6.0\System.Plugin.Core.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\bin\Debug\net6.0\System.Plugin.Core.pdb
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.csproj.CopyComplete
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\refint\System.Plugin.Host.dll
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\System.Plugin.Host.pdb
+C:\Users\Joscha\source\repos\System.Plugin\System.Plugin.Host\obj\Debug\net6.0\ref\System.Plugin.Host.dll
